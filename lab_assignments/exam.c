@@ -110,4 +110,5 @@ int main() {
 	printf("\n");
 
 	//printf("%d %d",count_start, count_end);
+	return 0;
 }
