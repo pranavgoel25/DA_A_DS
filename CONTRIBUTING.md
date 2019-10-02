@@ -15,7 +15,7 @@ patches and features.
 The [issue tracker](https://github.com/salman-bhai/DA_A_DS/issues) is
 the preferred channel for spelling mistakes, errors or any general feedback. Please respect the following restrictions:
 
-* Please **do not** derail or troll issues. Keep the discussion on topic and respect the opinions of others.
+* Please **DO NOT** derail or troll issues. Keep the discussion on topic and respect the opinions of others.
 
 * Please **do not** open issues or pull requests that involve including **answers** to any of the questions.
 
