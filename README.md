@@ -3,7 +3,7 @@
 
 This repository is created to put together all the algorithms and data structures learnt and can serve as a helpful guide for ACM-ICPC handbook.
 
-##Usage
+## Usage
 In case you are interested in using the contents of the repository, follow the following steps.
 
 - Open up your terminal.
